@@ -1,16 +1,8 @@
 ## Kiến trúc máy tính, DHTH8, 2015
 
-Announcement
+Thông  báo
 -----------------
-
-To download lecture notes, homeworks:
-```
-git clone https://github.com/kientrucmaytinh/kientrucmaytinh-dhth10.git
-```
-Then to update:
-```
-git pull origin master
-```
+- 01/09/2015: đăng ký danh sách tiểu luận cho lớp **DHKTPM10BCLC** (chỉ cho lớp này) tại [đây](https://docs.google.com/spreadsheets/d/15qmoiBRlfR8ji1AQewEmjlgzfnPXbnIIVFJ0Lz4CB-8/edit?usp=sharing). Danh sách này sẽ được khóa lại từ 7/9. Sinh viên không đăng ký tiểu luận sẽ bị cấm thi cuối kỳ.
 
 Tentative schedule
 -----------------
@@ -25,6 +17,16 @@ Tentative schedule
 5. Assembly language pdf
 
 *Please consider to print 4/8 slides per page with double side to save trees*
+
+To download lecture notes, homeworks:
+```
+git clone https://github.com/kientrucmaytinh/kientrucmaytinh-dhth10.git
+```
+Then to update:
+```
+git pull origin master
+```
+
 
 Note: Vietnamese version of my slide could be found [here](http://www.mediafire.com/download/bbib08i4g9wmr81/KTMT_DICH.rar).
 
