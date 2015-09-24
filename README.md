@@ -2,6 +2,8 @@
 
 Thông  báo
 -----------------
+- 24/9/2014: Nội dung ôn tập: Chương 1 & 2, chú ý ôn tập các nội dung Allignment, Endian, Memory Cache, RISC vs CISC.
+
 - 8/9/2015: Đây là danh sách các [nhóm đề tài](https://docs.google.com/spreadsheets/d/15qmoiBRlfR8ji1AQewEmjlgzfnPXbnIIVFJ0Lz4CB-8/edit?usp=sharing), và mô tả các đề tài tại [đây](https://drive.google.com/file/d/0B6SDzWOnR4HFOGNSU2lFTUxocUk/view?usp=sharing). Thời gian báo cáo sẽ thông báo sau hơn 1 tháng nữa.
 
 - 01/09/2015: Đăng ký danh sách tiểu luận cho lớp **DHKTPM10BCLC** (chỉ cho lớp này) tại [đây](https://docs.google.com/spreadsheets/d/15qmoiBRlfR8ji1AQewEmjlgzfnPXbnIIVFJ0Lz4CB-8/edit?usp=sharing). Danh sách này sẽ được khóa lại từ 7/9. Sinh viên không đăng ký tiểu luận sẽ bị cấm thi cuối kỳ.
